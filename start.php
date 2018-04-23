@@ -21,6 +21,7 @@
 	<h2 class="row c12">Studie im Rahmen des 'Human Information Behaviour'-Seminars</h2>
 
 	<p class="row c12">
+  <!--Text bei Beginn der Studie-->
 	Danke für das Interesse an unserer Studie. Die Bearbeitung der Aufgaben wird ca. 15 Minuten dauern und findet vollständig am Computer statt.
 	Nutzen Sie dafür am besten Safari, Chrome oder Firefox.
   Die Teilnahme ist komplett freiwillig und kann jederzeit unterbrochen werden.
