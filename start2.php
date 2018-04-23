@@ -17,6 +17,7 @@
 	<h2 class="row c12">Studie im Rahmen des 'Human Information Behaviour'-Seminars</h2>
 
 	<p class="row c12">
+  <!--Text nach Ende der Studie-->
 	Vielen Dank für das Interesse. Diese Studie ist inzwischen abgeschlossen und nicht mehr zugänglich.
   Sollten Sie teilgenommen und noch Fragen haben, melden Sie sich gerne unter nachfolgender Emailadresse.
   <p class="c12">Email: daniela.krapf@stud.uni-regensburg.de</p>
